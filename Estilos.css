@@ -20,3 +20,12 @@ div.Parrafo{
     font-family: "Arial";
     
 }
+
+div.Pokemon{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #DC143C;
+    font-family: "Arial";
+    text-align: justify;
+    text-shadow: 10px red;
+}
